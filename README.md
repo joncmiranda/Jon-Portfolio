@@ -7,7 +7,7 @@ Mechanical Engineering Student @UC San Diego
 I'm currently the Mechanical Team Lead for Triton Droids, UCSD's Humanoid Robotics club. I am also an undergraduate researcher involved with Meta-materials and have had previous experience in rocketry.
 
 * 🌍  I'm based in San Diego, California
-* ✉️  You can contact me at [jon.car.miranda@gmail.com](mailto:jon.car.miranda@gmail.com)
+* ✉️  You can contact me at [jon.car.miranda@gmail.com or j4miranda@ucsd.edu](mailto:jon.car.miranda@gmail.com or j4miranda@ucsd.edu)
 * 🧠  I'm currently learning designing a Humanoid Robot to play soccer for ROBOCUP 2027
 
 <p align="left">
