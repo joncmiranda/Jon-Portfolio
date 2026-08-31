@@ -11,7 +11,7 @@ A miniature G-class rocket with a custom nose cone, fin can, and avionics bay to
 - Fin Can
 - Nose Cone
 - Avionics Bay
-- 
+
 ## Electronics
 
 - Arduino NANO
